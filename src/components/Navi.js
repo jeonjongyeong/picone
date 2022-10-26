@@ -8,7 +8,7 @@ function Navi() {
         <Nav className="me-auto">
           <Nav.Link href="/">Home</Nav.Link>
           <Nav.Link href="/Gallery">Gallery</Nav.Link>
-          <Nav.Link href="#">자유게시판</Nav.Link>
+          <Nav.Link href="/Board">자유게시판</Nav.Link>
         </Nav>
       </Container>
     </div>
